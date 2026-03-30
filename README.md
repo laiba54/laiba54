@@ -21,11 +21,19 @@ Passionate Full Stack Web Developer with strong expertise in HTML, CSS, Bootstra
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laiba54&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laiba54&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laiba54&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laiba54&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laiba54&theme=tokyonight&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laiba54&theme=tokyonight" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=laiba54&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba54&theme=tokyonight&hide_border=false&layout=compact&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=laiba54&icon=0&color=0)](https://visitcount.itsvg.in)
