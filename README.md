@@ -22,13 +22,12 @@ Passionate Full Stack Web Developer with strong expertise in HTML, CSS, Bootstra
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laiba54&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laiba54&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laiba54&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laiba54&theme=tokyonight&utcOffset=5" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laiba54&theme=tokyonight" />
 </p>
